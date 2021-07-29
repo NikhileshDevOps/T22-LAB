@@ -12,6 +12,8 @@ class BasicMath {
     System.out.println("c = " + c);
     System.out.println("d = " + d);
     System.out.println("e = " + e);
+System.out.println("d = " + d);
+    System.out.println("e = " + e);
 
     // arithmetic using doubles
     System.out.println("\nFloating Point Arithmetic");

@@ -11,6 +11,7 @@ class Arithmetic {
    
     res = a+b; //addition 
     System.out.println("a+b is "+res); 
+System.out.println("a+b is "+res); 
    
     res = a-b; //subtraction 
     System.out.println("a-b is "+res); 
